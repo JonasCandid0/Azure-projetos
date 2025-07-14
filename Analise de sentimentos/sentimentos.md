@@ -66,8 +66,8 @@ Este guia documenta passo a passo minha experiência na configuração e utiliza
    - Selecione o idioma do texto (ex: Português)  
    - Insira o texto para análise:  
      ```text
-     "Sabor: A parmegiana estava deliciosa! O filé mignon era macio e bem temperado, o molho de tomate caseiro tinha um toque levemente adocicado que combinou perfeitamente com o queijo derretido. A porção de batatas fritas estava crocante e bem sequinha.
-`![](images/analise.png)`
+     "Sabor: A parmegiana estava deliciosa! O filé mignon era macio e bem temperado, o molho de tomate caseiro tinha um toque levemente adocicado que combinou perfeitamente com o queijo derretido. A porção de batatas fritas estava crocante e bem sequinha. \
+![](images/analise.png)
 Pontos Negativos:
 
 O preço é um pouco salgado para o tamanho da porção (podia vir mais acompanhamentos).
@@ -96,9 +96,9 @@ Dica: Se for em dia de semana, evite o horário de pico (13h-14h) para um atendi
 - **Aspectos negativos**:  
   - Ambiente (problema com barulho)  
   - Preço (considerado elevado)  
-
+\
 ![](images/final.png)
-
+\
 **Aplicação prática**:
 - Identifique pontos fortes para manter  
 - Detecte oportunidades de melhoria  
