@@ -68,7 +68,7 @@ Este guia documenta passo a passo minha experiência na configuração e utiliza
      ```text
      "Prato Pedido: Parmegiana de Filé Mignon com Molho Especial
 
-    ![Descrição da Imagem](analise_final.png)
+![Descrição da Imagem](analise_final.png)
 
 
 Ambiente: O restaurante tem um clima aconchegante, com iluminação suave e decoração rústica. A música ambiente ..."
