@@ -1,5 +1,4 @@
 # Azure-projetos
-Projetos do bootcamp da DIO
 
 #  Desafio: Domínio das Ferramentas Azure Speech & Language Studio
 
