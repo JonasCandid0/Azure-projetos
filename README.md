@@ -29,7 +29,8 @@ Desenvolver habilidades práticas em soluções de **IA para processamento de vo
 ---
 
 graph TD
-    A[Repositório Organizado] --> B[Anotações Técnicas]
+    A[Repositório Organizado] 
+    A --> B[Anotações Técnicas]
     A --> C[Insights Práticos]
     A --> D[Fluxos Documentados]
     A --> E[Screenshots Relevantes]
