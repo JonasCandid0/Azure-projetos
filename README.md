@@ -34,4 +34,3 @@ graph TD
     A --> C[Insights Práticos]
     A --> D[Fluxos Documentados]
     A --> E[Screenshots Relevantes]
-    A --> F[Exemplos de Código]
