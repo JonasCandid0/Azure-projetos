@@ -61,7 +61,7 @@ Este guia documenta passo a passo minha experiência na configuração e utiliza
 1. **No Language Studio**:  
    - Clique em `"Classificar texto"`  
    - Selecione `"Analyze sentiment and opinions"`  
-    ![Descrição da Imagem](images/analise.png)
+
 2. **Configuração da análise**:  
    - Selecione o idioma do texto (ex: Português)  
    - Insira o texto para análise:  
