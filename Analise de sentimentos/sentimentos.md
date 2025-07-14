@@ -66,16 +66,26 @@ Este guia documenta passo a passo minha experiência na configuração e utiliza
    - Selecione o idioma do texto (ex: Português)  
    - Insira o texto para análise:  
      ```text
-     "Prato Pedido: Parmegiana de Filé Mignon com Molho Especial
+     "Sabor: A parmegiana estava deliciosa! O filé mignon era macio e bem temperado, o molho de tomate caseiro tinha um toque levemente adocicado que combinou perfeitamente com o queijo derretido. A porção de batatas fritas estava crocante e bem sequinha.
 
+Pontos Negativos:
 
-Ambiente: O restaurante tem um clima aconchegante, com iluminação suave e decoração rústica. A música ambiente ..."
+O preço é um pouco salgado para o tamanho da porção (podia vir mais acompanhamentos).
+
+A salada que veio de acompanhamento estava bem básica, sem muita criatividade.
+
+Demora um pouco no atendimento quando o restaurante fica cheio.
+
+Conclusão: Vale a pena visitar se você é fã de uma boa parmegiana! Não é perfeito, mas o sabor do prato principal compensa os pequenos defeitos. Recomendo pedir uma porção extra de pão de alho para acompanhar!
+
+Dica: Se for em dia de semana, evite o horário de pico (13h-14h) para um atendimento mais rápido."
      ```
      *🔹 Nota: Este exemplo foi gerado por IA como avaliação fictícia de restaurante*
 
 3. **Execute a análise**:  
    - Desça a página  
    - Clique em `"Run"`  
+![Dashboard de Análise de Dados](images/final.png)
 
 ### Resultados e Interpretação
 **Saída típica da análise**:
