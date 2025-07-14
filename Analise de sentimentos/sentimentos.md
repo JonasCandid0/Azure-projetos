@@ -84,8 +84,8 @@ Dica: Se for em dia de semana, evite o horário de pico (13h-14h) para um atendi
 
 3. **Execute a análise**:  
    - Desça a página  
-   - Clique em `"Run"`  
-![Dashboard de Análise de Dados](images/final.png)
+   - Clique em `"Run"`
+   ![](images/analise.png)
 
 ### Resultados e Interpretação
 **Saída típica da análise**:
