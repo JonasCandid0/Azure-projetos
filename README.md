@@ -15,9 +15,9 @@ O desafio consiste em:
 
 ---
 
-## 🔍 Descrição do Desafio
+##  Descrição do Desafio
 
-### 🎯 Objetivo Principal
+###  Objetivo Principal
 
 Desenvolver habilidades práticas em soluções de **IA para processamento de voz e linguagem natural** através de:
 
