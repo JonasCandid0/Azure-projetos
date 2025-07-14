@@ -61,14 +61,14 @@ Este guia documenta passo a passo minha experiência na configuração e utiliza
 1. **No Language Studio**:  
    - Clique em `"Classificar texto"`  
    - Selecione `"Analyze sentiment and opinions"`  
-
+    ![Descrição da Imagem](inserindo_texto.png)
 2. **Configuração da análise**:  
    - Selecione o idioma do texto (ex: Português)  
    - Insira o texto para análise:  
      ```text
      "Prato Pedido: Parmegiana de Filé Mignon com Molho Especial
 
- ![Descrição da Imagem](inserindo_texto.png)
+    ![Descrição da Imagem](analise_final.png)
 
 
 Ambiente: O restaurante tem um clima aconchegante, com iluminação suave e decoração rústica. A música ambiente ..."
