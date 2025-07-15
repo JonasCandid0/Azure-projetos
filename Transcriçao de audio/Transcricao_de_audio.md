@@ -63,8 +63,9 @@ Este guia documenta passo a passo o processo completo de configuração e utiliz
    - Clique em `"Procurar arquivos"`
    - Selecione o arquivo de áudio da sua máquina
    - Formatos suportados: `.wav`, `.mp3`, `.ogg`
-![](images/passo3.png)
+
 3. **Resultados**:
+![](images/passo3.png)
    - A transcrição aparecerá automaticamente
    - Opção para baixar os resultados em `.txt`
 

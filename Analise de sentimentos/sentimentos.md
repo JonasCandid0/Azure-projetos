@@ -1,9 +1,9 @@
 # Guia Prático: Análise de Sentimentos com Azure Language Studio
 
-## 📋 Introdução
+##  Introdução
 Este guia documenta passo a passo minha experiência na configuração e utilização do Azure Language Studio para análise de sentimentos, desenvolvido como parte de um desafio acadêmico da faculdade utilizando a assinatura Azure for Students.
 
-## 🛠️ Configuração Inicial - Passo a Passo Detalhado
+##  Configuração Inicial - Passo a Passo Detalhado
 
 ### 1. Criando o Grupo de Recursos
 1. **Acesse o [Portal do Azure](https://portal.azure.com)**  
@@ -38,7 +38,7 @@ Este guia documenta passo a passo minha experiência na configuração e utiliza
    | Nome | Dê um nome descritivo (ex: `fala`) |
 
 5. **Aceite os termos**:  
-   ✅ Marque a caixa:  
+    Marque a caixa:  
    `"Ao marcar essa caixa, declaro que analisei e confirmo os termos no Aviso de Uso Responsável da IA."`  
 
 6. **Finalize**:  
@@ -105,15 +105,15 @@ Dica: Se for em dia de semana, evite o horário de pico (13h-14h) para um atendi
 - Analise padrões em múltiplas avaliações  
 - Priorize ajustes baseados em feedback  
 
-## 💡 Insights e Aprendizados
+##  Insights e Aprendizados
 
-### ✅ Pontos Positivos da Experiência
+###  Pontos Positivos da Experiência
 - **Custo zero**: Plano Free F0 ideal para projetos acadêmicos  
 - **Interface intuitiva**: Fluxo guiado facilita o primeiro uso  
 - **Detecção precisa**: Identifica nuances mesmo em textos complexos  
 - **Organização**: Prefixo "gr_" realmente melhora a gestão de recursos  
 
-### ⚠️ Desafios e Soluções
+###  Desafios e Soluções
 | Desafio | Solução Adotada |
 |---------|-----------------|
 | Limite de 5.000 transações/mês | Planeje testes e use amostras representativas |
@@ -121,13 +121,13 @@ Dica: Se for em dia de semana, evite o horário de pico (13h-14h) para um atendi
 | Limitação de caracteres | Divida textos grandes em partes menores |
 | Termos técnicos da interface | Mantenha este guia como referência |
 
-### 🚀 Aplicações Práticas no Trabalho
+###  Aplicações Práticas no Trabalho
 1. **Análise de feedbacks** Tendências de Satisfação
 2. **Monitoramento de avaliações** em pesquisas institucionais  
 3. **Processamento de respostas abertas** Detecção de Críticas Construtivas  
 4. **Estudo de percepção** Análise de Emoções Específicas  
 
-## 📌 Recomendações Essenciais
+##  Recomendações Essenciais
 ```diff
 + Convenção de nomes: Sempre use "gr_" para grupos de recursos
 + Verificação dupla: Confirme região e tipo de preço antes de criar
