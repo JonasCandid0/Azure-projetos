@@ -14,7 +14,7 @@ Este guia documenta passo a passo o processo completo de configuração e utiliz
 3. **Configurações essenciais**:
    - **Assinatura**: Selecione `Azure for Students` (para testes sem consumo de créditos)
    - **Nome**: 
-     - Sugestão: `gr_transcricao_fala` 
+     - Sugestão: `rg-plan_transcription` 
      - 🔹 *Por que "gr_"?* Este prefixo ajuda na organização e diferenciação de grupos
      - Exemplo pessoal: `rg-plan_transcription`
 
