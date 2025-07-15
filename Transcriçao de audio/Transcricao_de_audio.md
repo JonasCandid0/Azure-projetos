@@ -1,9 +1,9 @@
 # Guia Prático: Transcrição de Fala com Azure Speech Services
 
-## 📋 Introdução
+##  Introdução
 Este guia documenta passo a passo o processo completo de configuração e utilização do serviço de transcrição de fala do Azure, utilizando a assinatura **Azure for Students** para realizar testes sem consumo de créditos. Desenvolvido como parte de um laboratório acadêmico para aprendizado prático de soluções de IA.
 
-## 🛠️ Configuração Inicial - Passo a Passo
+##  Configuração Inicial - Passo a Passo
 
 ### 1. Criando o Grupo de Recursos
 1. **Acesse o [Portal do Azure](https://portal.azure.com)**
@@ -36,7 +36,7 @@ Este guia documenta passo a passo o processo completo de configuração e utiliz
    | Região | `East US` (garante disponibilidade do plano gratuito) |
    | Tipo de preço | `Free F0` |
 
-   ⚠️ **Atenção crucial**:
+    **Atenção crucial**:
    - Se o plano Free F0 não aparecer:
      - Você pode ter usado o plano gratuito em outro recurso
      - Solução: Exclua recursos antigos não utilizados para liberar a cota gratuita
@@ -48,7 +48,7 @@ Este guia documenta passo a passo o processo completo de configuração e utiliz
 3. Na mini-aberta que aparece:
    - Selecione `"AI Foundry"`
 
-## 🎤 Realizando Transcrição de Fala
+##  Realizando Transcrição de Fala
 
 ### Processo Completo
 1. **No AI Foundry**:
@@ -67,7 +67,7 @@ Este guia documenta passo a passo o processo completo de configuração e utiliz
    - A transcrição aparecerá automaticamente
    - Opção para baixar os resultados em `.txt`
 
-## 💡 Dicas Técnicas e Observações
+##  Dicas Técnicas e Observações
 
 ### Melhores Práticas
 ```diff
