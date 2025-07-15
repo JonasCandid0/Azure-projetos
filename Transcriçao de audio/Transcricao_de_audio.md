@@ -42,12 +42,13 @@ Este guia documenta passo a passo o processo completo de configuração e utiliz
      - Solução: Exclua recursos antigos não utilizados para liberar a cota gratuita
 
 ### 3. Acessando o Speech Studio (AI Foundry)
+
 **Após criar o recurso de Speech**:
 1. Clique no logo `"Microsoft Azure"` para voltar à home
 2. No canto superior esquerdo, clique nos `9 quadradinhos` (ícone do Microsoft Cloud)
 3. Na mini-aberta que aparece:
    - Selecione `"AI Foundry"`
-
+![](images/passo1.png)
 ##  Realizando Transcrição de Fala
 
 ### Processo Completo
@@ -57,12 +58,12 @@ Este guia documenta passo a passo o processo completo de configuração e utiliz
      ``` 
      Transcrição em tempo real
      ```
-
+![](images/passo2.png)
 2. **Carregando o áudio**:
    - Clique em `"Procurar arquivos"`
    - Selecione o arquivo de áudio da sua máquina
    - Formatos suportados: `.wav`, `.mp3`, `.ogg`
-
+![](images/passo3.png)
 3. **Resultados**:
    - A transcrição aparecerá automaticamente
    - Opção para baixar os resultados em `.txt`
